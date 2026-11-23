@@ -1,0 +1,6 @@
+{
+  "max_sessions": 4,
+  "rotate_on_limit": true,
+  "keep_checkpoint": true,
+  "quiet": false
+}
