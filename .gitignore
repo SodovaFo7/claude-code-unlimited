@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+
+# logs
+*.log
+npm-debug.log*
+
+# env & secrets
+.env
+.env.*
+
+# os junk
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# ccu local state
+.checkpoints/
