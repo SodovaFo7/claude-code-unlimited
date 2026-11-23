@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="preview.svg" alt="Claude Code Unlimited — Session Rotation Engine Preview" width="840"></a>
+<a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="banner.svg" alt="Claude Code Unlimited — Session Rotation Engine Preview" width="840"></a>
 
 </div>
 
