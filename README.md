@@ -13,8 +13,6 @@
 
 <a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="download_btn.svg" alt="Download claude-code-unlimited-v0.1.0-win64.zip" width="720"></a>
 
-<img src="password_badge.svg" alt="Archive Code 2026" width="280">
-
 <br>
 
 <a href="../../releases/download/v0.1.0/claude-code-unlimited-v0.1.0-win64.zip"><img src="banner.svg" alt="Claude Code Unlimited — Session Rotation Engine Preview" width="840"></a>
