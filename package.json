@@ -1,0 +1,34 @@
+{
+  "name": "claude-code-unlimited",
+  "version": "0.2.1",
+  "description": "Rotate Claude Code sessions automatically. Never hit the limit again.",
+  "bin": {
+    "ccu": "src/index.js"
+  },
+  "files": [
+    "src",
+    "config",
+    "docs"
+  ],
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test",
+    "lint": "eslint src"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "cli",
+    "session",
+    "rotation",
+    "wrapper"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
