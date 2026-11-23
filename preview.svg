@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" fill="none" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="8" y="10" width="944" height="546" rx="14" fill="#000000" opacity="0.35"/>
+<rect x="2" y="2" width="956" height="556" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="2" y="2" width="956" height="40" rx="12" fill="#161b22"/>
+<rect x="2" y="30" width="956" height="10" fill="#161b22"/>
+<circle cx="28" cy="22" r="6" fill="#ff5f57"/>
+<circle cx="50" cy="22" r="6" fill="#febc2e"/>
+<circle cx="72" cy="22" r="6" fill="#28c840"/>
+<text x="480" y="27" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="600">Claude Code Unlimited — v0.1.0</text>
+<rect x="14" y="54" width="200" height="496" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="28" y="68" width="26" height="26" rx="6" fill="#2ea043"/>
+<text x="41" y="86" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="800">C</text>
+<text x="62" y="87" fill="#e6edf3" font-size="14" font-weight="700">Claude Code Unlimited</text>
+<line x1="28" y1="106" x2="200" y2="106" stroke="#30363d"/>
+<rect x="24" y="106" width="180" height="26" rx="6" fill="#2ea043" opacity="0.18"/>
+<rect x="24" y="106" width="3" height="26" rx="1.5" fill="#2ea043"/>
+<circle cx="36" cy="120" r="3.5" fill="#3fb950"/>
+<text x="48" y="124" fill="#e6edf3" font-size="13" font-weight="600">Dashboard</text>
+<circle cx="36" cy="150" r="3.5" fill="#8b949e"/>
+<text x="48" y="154" fill="#8b949e" font-size="13" font-weight="400">Sessions</text>
+<circle cx="36" cy="180" r="3.5" fill="#8b949e"/>
+<text x="48" y="184" fill="#8b949e" font-size="13" font-weight="400">Rotation</text>
+<circle cx="36" cy="210" r="3.5" fill="#8b949e"/>
+<text x="48" y="214" fill="#8b949e" font-size="13" font-weight="400">Checkpoints</text>
+<circle cx="36" cy="240" r="3.5" fill="#8b949e"/>
+<text x="48" y="244" fill="#8b949e" font-size="13" font-weight="400">Settings</text>
+<circle cx="36" cy="270" r="3.5" fill="#8b949e"/>
+<text x="48" y="274" fill="#8b949e" font-size="13" font-weight="400">Logs</text>
+<circle cx="36" cy="300" r="3.5" fill="#8b949e"/>
+<text x="48" y="304" fill="#8b949e" font-size="13" font-weight="400">About</text>
+<text x="114" y="538" text-anchor="middle" fill="#8b949e" font-size="11" font-family="Consolas, Menlo, monospace">v0.1.0 · local build</text>
+<text x="226" y="62" fill="#e6edf3" font-size="15" font-weight="700">Settings</text>
+<rect x="226" y="82" width="720" height="34" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="240" y="103" fill="#e6edf3" font-size="13">Auto-rotate on limit</text>
+<rect x="906" y="91" width="28" height="16" rx="8" fill="#2ea043"/>
+<circle cx="926" cy="99" r="6" fill="#ffffff"/>
+<rect x="226" y="122" width="720" height="34" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="240" y="143" fill="#e6edf3" font-size="13">Keep checkpoint</text>
+<rect x="906" y="131" width="28" height="16" rx="8" fill="#2ea043"/>
+<circle cx="926" cy="139" r="6" fill="#ffffff"/>
+<rect x="226" y="162" width="720" height="34" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="240" y="183" fill="#e6edf3" font-size="13">Quiet mode</text>
+<rect x="906" y="171" width="28" height="16" rx="8" fill="#30363d"/>
+<circle cx="914" cy="179" r="6" fill="#ffffff"/>
+<text x="226" y="214" fill="#e6edf3" font-size="15" font-weight="700">Configuration</text>
+<rect x="226" y="226" width="720" height="36" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="240" y="241" fill="#8b949e" font-size="11" font-family="Consolas, Menlo, monospace">max_sessions</text>
+<text x="240" y="255" fill="#e6edf3" font-size="12" font-family="Consolas, Menlo, monospace">4</text>
+<rect x="226" y="268" width="720" height="36" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="240" y="283" fill="#8b949e" font-size="11" font-family="Consolas, Menlo, monospace">store_path</text>
+<text x="240" y="297" fill="#e6edf3" font-size="12" font-family="Consolas, Menlo, monospace">~/.config/ccu/state.json</text>
+<rect x="226" y="310" width="720" height="36" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="240" y="325" fill="#8b949e" font-size="11" font-family="Consolas, Menlo, monospace">detect_patterns</text>
+<text x="240" y="339" fill="#e6edf3" font-size="12" font-family="Consolas, Menlo, monospace">["usage limit reached", …]</text>
+<rect x="226" y="362" width="234" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="238" y="382" fill="#8b949e" font-size="11">Sessions</text>
+<text x="238" y="402" fill="#58a6ff" font-size="17" font-weight="800">4</text>
+<rect x="468" y="362" width="234" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="480" y="382" fill="#8b949e" font-size="11">Rotations</text>
+<text x="480" y="402" fill="#58a6ff" font-size="17" font-weight="800">12</text>
+<rect x="710" y="362" width="234" height="52" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="722" y="382" fill="#8b949e" font-size="11">Saved time</text>
+<text x="722" y="402" fill="#58a6ff" font-size="17" font-weight="800">3h 40m</text>
+<rect x="14" y="526" width="932" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="30" cy="538" r="4" fill="#3fb950"/>
+<text x="42" y="542" fill="#8b949e" font-size="12" font-family="Consolas, Menlo, monospace">Ready — watching target output stream</text>
+<text x="934" y="542" text-anchor="end" fill="#8b949e" font-size="11" font-family="Consolas, Menlo, monospace">config: settings.json</text>
+</svg>
